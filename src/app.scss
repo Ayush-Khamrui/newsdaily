@@ -1,0 +1,10 @@
+.App{
+    height: 100vh;
+}
+.all__news {
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 5%;
+  }
