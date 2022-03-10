@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![image](https://user-images.githubusercontent.com/48053472/156359010-baedde7b-6bc5-4dfa-8979-e2945e12db7e.png)
 
 ## Project Intent
-The intention of making this project is to create a web app which will provive the latest news about war around the globe. 
+The intention of making this project is to create a web app which will provide the latest news about war around the globe. 
 I am not in support of war but there is always a greater impact of war which we can not avoid and thus we must stay updated with the news.
 
 ## Available Scripts
